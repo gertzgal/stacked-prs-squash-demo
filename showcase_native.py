@@ -1,5 +1,5 @@
 # layer A adds a tax rate
-TAX_RATE = 0.17
+TAX_RATE = 0.18  # layer B: new rate
 
 
 def price(amount):
