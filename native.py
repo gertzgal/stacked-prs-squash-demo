@@ -4,4 +4,4 @@ NAME = "world"
 
 
 def greet():
-    return f"hello {NAME}"
+    return f"hello, {NAME}!"
